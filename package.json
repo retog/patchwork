@@ -85,7 +85,7 @@
     "ssb-mentions": "^0.5.2",
     "ssb-msgs": "^5.2.0",
     "ssb-no-auth": "^1.0.0",
-    "ssb-patchboot-ws": "^0.1.2",
+    "ssb-patchboot-ws": "^0.2.0",
     "ssb-private": "^0.2.3",
     "ssb-query": "^2.4.3",
     "ssb-ref": "^2.13.9",
