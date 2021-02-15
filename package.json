@@ -30,7 +30,7 @@
     "escape-string-regexp": "^2.0.0",
     "fix-path": "^3.0.0",
     "flat": "^5.0.0",
-    "flatpickr": "4.5.2",
+    "flatpickr": "4.6.9",
     "flumeview-reduce": "^1.4.0",
     "hashlru": "^2.3.0",
     "hex-rgb": "^4.1.0",
